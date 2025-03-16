@@ -1,5 +1,6 @@
 # FACIFY - Skincare Management Front-End Project
-# live site - https://dynamic-maamoul-27fbe7.netlify.app/
+
+live site - https://dynamic-maamoul-27fbe7.netlify.app/
 
 <img src="https://github.com/user-attachments/assets/8665e2d8-b211-43a6-8932-33a79570dbce" alt="FACIFY Logo" width="200"/>
 
@@ -36,4 +37,11 @@ The **Sign-In Modal** allows users to sign in or register for an account. Users 
 - **Webcam API**: For capturing users' faces using their device's webcam for the face detection feature.
 
 
+![01](https://github.com/user-attachments/assets/b826fe91-ec84-4520-910e-6583269e7003)
+
+![02](https://github.com/user-attachments/assets/56b9cb90-07bb-43a6-8474-d68d9597ddf1)
+
+![03](https://github.com/user-attachments/assets/1225ec6d-b664-4b70-a89e-14522519ff63)
+
+![04](https://github.com/user-attachments/assets/d67c5545-8686-4670-b37b-f3ecb172d812)
 
