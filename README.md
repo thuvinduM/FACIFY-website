@@ -1,6 +1,7 @@
 # FACIFY - Skincare Management Front-End Project
 # live site - https://dynamic-maamoul-27fbe7.netlify.app/
-![FACIFY Logo](https://github.com/user-attachments/assets/8665e2d8-b211-43a6-8932-33a79570dbce)
+
+<img src="https://github.com/user-attachments/assets/8665e2d8-b211-43a6-8932-33a79570dbce" alt="FACIFY Logo" width="200"/>
 
 FACIFY is a front-end project designed to provide users with tools and information for skincare management, focusing on detecting and managing oily skin. The website offers a variety of features aimed at improving skincare routines for users with oily skin.
 
